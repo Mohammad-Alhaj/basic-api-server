@@ -10,9 +10,9 @@ const clothesRouters = require('../src/routes/clothes')
 const FoodRouters = require("../src/routes/food")
 
 
-// app.get('/',(req,res)=>{
-//     res.send('Helo my name is mohammad ')
-// });
+app.get('/',(req,res)=>{
+    res.send('Hello my name is mohammad alhaj')
+});
 
 
 

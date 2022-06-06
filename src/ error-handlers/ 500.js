@@ -6,7 +6,7 @@ module.exports = ((err,req,res,next)=>{
     res.status(500).send(
         {
             code:500,
-            masseg:`the server error come form ${err}`
+            message:`the server error come form ${err}`
 
 
         }
