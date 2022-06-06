@@ -99,6 +99,8 @@ let sequelizeOptions = process.env.NODE_ENV === 'production' ? {
 
  ### URL
 
- []()
- []()
- []()
+ [actions](https://github.com/Mohammad-Alhaj/basic-api-server/actions)
+
+ [pull request](https://github.com/Mohammad-Alhaj/basic-api-server/pulls)
+ 
+ [heroku](https://mohammadalhaj-basic-api-server.herokuapp.com/)
